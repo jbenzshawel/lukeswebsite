@@ -1,5 +1,3 @@
-#Notes about Luke's website/blog
-
 ##Basics
 
 - Use wordpress for cms 
