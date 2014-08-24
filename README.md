@@ -14,7 +14,7 @@
 
 ###WordPress Template
 
-- List of basic files
+List of basic files
 - footer.php
 - funcitons.php
 - header.php
