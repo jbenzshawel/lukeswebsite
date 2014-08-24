@@ -2,10 +2,6 @@
 
 - Use wordpress for cms 
 - Barebones template
-- Set it up in AWS or ASO w/his info 
-	- EC2/RDS micro instance 
-	- Have luke buy a domain (show him TLDs)
-
 
 ###Site design / functionality 
 
@@ -24,7 +20,8 @@
 - header.php
 - index.php
 - page.php
-- post.php
+- single.php
+- front-page.php
 - sidebar.php
 - 404.php
 - style.css
