@@ -1,15 +1,16 @@
-/**
- * Theme Name: Luke's Website
- * Theme URI: http://lukegilderbloom.com
- * Author: Addison Benzshawel
- * Author URI: http://addison.im
- * Description: 
- * Version: 1.0
- * License: GNU General Public License v2 or later
- * License URI: http://www.gnu.org/licenses/gpl-2.0.html
+/*
+ Theme Name: Luke's Website
+ Theme URI: http://lukegilderbloom.com
+ Author: Addison Benzshawel
+ Author URI: http://addison.im
+ Description: Custom wp theme
+ Version: 1.0
+ License: GNU General Public License v2 or later
+ License URI: http://www.gnu.org/licenses/gpl-2.0.html
  */
 
 /* call fonts and framework styles */
+
 @import url('//fonts.googleapis.com/css?family=Open+Sans:300italic,400,300');
 @import url('//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css');
 @import url('stylesheets/normalize.css');
@@ -92,6 +93,11 @@ header {
 .posts img {
 	margin:25px auto;
 	display: block;
+}
+
+.basic-content {
+	margin-bottom:200px;
+	min-height: 305px;
 }
 
 /* footer */
